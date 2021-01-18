@@ -2,7 +2,7 @@
 
 This project is initialized with [](https://pro.ant.design). 
 
-项目是库存管理Demo的前端部分，主体使用Ant design pro组件完成，技术栈为Ract与Dva
+项目是库存管理 Demo 的前端部分，主体使用 Ant design pro 组件完成，技术栈为 Ract 与 Dva
 
 ## Environment Prepare
 
