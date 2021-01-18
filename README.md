@@ -1,6 +1,8 @@
 #
 
-This project is initialized with [](https://pro.ant.design). Follow is the quick guide for how to use.
+This project is initialized with [](https://pro.ant.design). 
+
+项目是库存管理Demo的前端部分，主体使用Ant design pro组件完成，技术栈为Ract与Dva
 
 ## Environment Prepare
 
